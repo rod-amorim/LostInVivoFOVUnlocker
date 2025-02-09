@@ -15,6 +15,6 @@ If you haven't installed BepInEx yet, follow these steps:
 
 ### Install the Mod
 
-1. Download the latest version of **FOV Unlocker** from the [Releases](#) page.
+1. Download the latest version of **FOV Unlocker** from the [Releases](https://github.com/rod-amorim/LIVFOVUnlocker/releases) page.
 2. Place the `.dll` inside the `BepInEx/plugins` folder (inside your game's directory).
 3. Start the game and enjoy the unlocked FOV!
