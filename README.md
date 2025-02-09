@@ -7,8 +7,8 @@
 
 If you haven't installed BepInEx yet, follow these steps:
 
-1. Download **BepInEx** from the official repository:
-   - [BepInEx Releases](https://github.com/BepInEx/BepInEx/releases)
+1. Download **BepInEx** from the official repository (needs to be the version 5.4.23.2):
+   - [BepInEx Releases](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2)
 2. Extract the contents of the **BepInEx zip** into your game's root folder (where the game executable is located).
 3. Run the game once to allow BepInEx to generate necessary files.
 4. Close the game.
