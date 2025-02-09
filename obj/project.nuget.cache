@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rZ7EriYHytz7lYGO3FWF+Ix+bHqOaRt0VKLPIW20rUOKiNTL2NpaJI2PdOBF4iQ059J+7cMKDrClbTGAPJB5zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri\\RiderProjects\\LIVFOVUnlocker\\LIVFOVUnlocker\\LIVFOVUnlocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

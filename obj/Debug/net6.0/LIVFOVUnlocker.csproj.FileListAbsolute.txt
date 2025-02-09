@@ -1,0 +1,17 @@
+C:\Users\rodri\RiderProjects\LIVFOVUnlocker\LIVFOVUnlocker\bin\Debug\net6.0\LIVFOVUnlocker.deps.json
+C:\Users\rodri\RiderProjects\LIVFOVUnlocker\LIVFOVUnlocker\bin\Debug\net6.0\LIVFOVUnlocker.dll
+C:\Users\rodri\RiderProjects\LIVFOVUnlocker\LIVFOVUnlocker\bin\Debug\net6.0\LIVFOVUnlocker.pdb
+C:\Users\rodri\RiderProjects\LIVFOVUnlocker\LIVFOVUnlocker\bin\Debug\net6.0\Assembly-CSharp.dll
+C:\Users\rodri\RiderProjects\LIVFOVUnlocker\LIVFOVUnlocker\bin\Debug\net6.0\UnityEngine.CoreModule.dll
+C:\Users\rodri\RiderProjects\LIVFOVUnlocker\LIVFOVUnlocker\bin\Debug\net6.0\UnityEngine.dll
+C:\Users\rodri\RiderProjects\LIVFOVUnlocker\LIVFOVUnlocker\obj\Debug\net6.0\LIVFOVUnlocker.csproj.AssemblyReference.cache
+C:\Users\rodri\RiderProjects\LIVFOVUnlocker\LIVFOVUnlocker\obj\Debug\net6.0\MyPluginInfo.cs
+C:\Users\rodri\RiderProjects\LIVFOVUnlocker\LIVFOVUnlocker\obj\Debug\net6.0\LIVFOVUnlocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\RiderProjects\LIVFOVUnlocker\LIVFOVUnlocker\obj\Debug\net6.0\LIVFOVUnlocker.AssemblyInfoInputs.cache
+C:\Users\rodri\RiderProjects\LIVFOVUnlocker\LIVFOVUnlocker\obj\Debug\net6.0\LIVFOVUnlocker.AssemblyInfo.cs
+C:\Users\rodri\RiderProjects\LIVFOVUnlocker\LIVFOVUnlocker\obj\Debug\net6.0\LIVFOVUnlocker.csproj.CoreCompileInputs.cache
+C:\Users\rodri\RiderProjects\LIVFOVUnlocker\LIVFOVUnlocker\obj\Debug\net6.0\LIVFOVUn.A2E38BA8.Up2Date
+C:\Users\rodri\RiderProjects\LIVFOVUnlocker\LIVFOVUnlocker\obj\Debug\net6.0\LIVFOVUnlocker.dll
+C:\Users\rodri\RiderProjects\LIVFOVUnlocker\LIVFOVUnlocker\obj\Debug\net6.0\refint\LIVFOVUnlocker.dll
+C:\Users\rodri\RiderProjects\LIVFOVUnlocker\LIVFOVUnlocker\obj\Debug\net6.0\LIVFOVUnlocker.pdb
+C:\Users\rodri\RiderProjects\LIVFOVUnlocker\LIVFOVUnlocker\obj\Debug\net6.0\ref\LIVFOVUnlocker.dll
